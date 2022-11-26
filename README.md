@@ -88,3 +88,5 @@ npm ERR!     /Users/user/.npm/_logs/2022-11-26T13_51_48_581Z-debug-0.log
 ```
 
 To fix this problem I ran `npm install`. After this I managed to run the command `npm run dev` and everything was find with the project.
+
+-   Learn about the structure of a Next 13 application.
