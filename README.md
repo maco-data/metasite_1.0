@@ -39,6 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## What I learned
 
+-   Learned to put code snippets in the using markdown syntax.
+
 -   After having all the files set I tried running `npm run dev` but recieved the following error:
 
 ```console
