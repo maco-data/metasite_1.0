@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## What I learned
 
--   Learned to put code snippets in the using markdown syntax.
+-   Learned to put code snippets in the README file by using markdown syntax.
 
 -   After having all the files set I tried running `npm run dev` but recieved the following error:
 
@@ -89,8 +89,12 @@ npm ERR! A complete log of this run can be found in:
 npm ERR!     /Users/user/.npm/_logs/2022-11-26T13_51_48_581Z-debug-0.log
 ```
 
-To fix this problem I ran `npm install`. After this I managed to run the command `npm run dev` and everything was find with the project.
+This happened becaused I did not installed the project dependencies.
 
--   Learn about the structure of a Next 13 application.
+To fix this problem I ran `npm install`. After this I managed to run the command `npm run dev` and everything was fine with the project.
 
--   Used set variables for repeating code this technique help save time as is code use in diferent parts.
+-   Learned about the structure of a Next 13 application.
+
+-   Used set variables for repeating code. This technique helped me save time as it is code I used in diferent parts.
+
+-   Learned to debug the my code, sometimes there were grammar errors or the incorrect syntax.
