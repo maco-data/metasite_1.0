@@ -11,7 +11,7 @@ const About = () => (
 		<div className="gradient-02 z-0" />
 		<motion.div
 			variants={staggerContainer}
-			inital="hidden"
+			initial="hidden"
 			whileInView="show"
 			viewport={{ once: false, amount: 0.25 }}
 			className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}>
